@@ -1,7 +1,7 @@
 # Strong Password Generator
 
 Command-line interface tool that generates strong random passwords. By default, 3 passwords of 16 characters each, are generated, without replacement. <br>
-This tool utilises the Python secrets library, since it cryptographically secure.
+This tool utilises the Python secrets library, since it is cryptographically secure.
 
 The length of the password is set using the `-l`/`--length` switch.
 
